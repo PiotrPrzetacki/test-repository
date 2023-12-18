@@ -1,2 +1,2 @@
 # test-repository
-First i28 project.
+My first I28 project.
